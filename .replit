@@ -1,0 +1,2 @@
+language = "java10"
+run = "javac TestTheRemote.java && java TestTheRemote"
